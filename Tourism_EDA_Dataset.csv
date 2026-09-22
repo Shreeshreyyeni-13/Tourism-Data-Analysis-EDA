@@ -1,0 +1,501 @@
+Tourist_ID,Age,Gender,Country,State,City,Tourist_Type,Purpose,Season,Month,Travel_Mode,Hotel_Type,Hotel_Rating,Days_Stayed,Travel_Cost,Hotel_Cost,Food_Cost,Shopping_Cost,Total_Expense,Tourist_Satisfaction,Booking_Mode,Group_Size,Repeat_Visitor
+T0001,57,Female,UK,Tamil Nadu,Mysuru,International,Pilgrimage,Winter,Jan,Car,Budget,4.3,5,21583,28947,8045,10251,68826,6,Online,6,Yes
+T0002,70,Male,Australia,Goa,Jaipur,Domestic,Pilgrimage,Summer,Jun,Flight,Budget,4.5,2,24282,30948,3390,6452,65072,8,Online,4,Yes
+T0003,53,Male,USA,Karnataka,Mysuru,International,Pilgrimage,Summer,Jan,Car,Standard,4.2,9,29686,41618,3879,10165,85348,6,Offline,4,Yes
+T0004,46,Female,USA,Goa,Mysuru,International,Vacation,Summer,Jun,Flight,Budget,4.5,5,28864,3050,5529,2986,40429,5,Online,2,No
+T0005,61,Female,Germany,Goa,Kochi,Domestic,Vacation,Summer,Mar,Flight,Luxury,3.2,7,31480,10329,7253,18220,67282,9,Offline,4,No
+T0006,66,Male,India,Karnataka,Jaipur,International,Adventure,Winter,Feb,Bus,Standard,4.3,7,15292,20992,3993,3944,44221,6,Online,5,Yes
+T0007,55,Male,India,Tamil Nadu,Jaipur,Domestic,Pilgrimage,Summer,Jun,Car,Luxury,3.8,3,37309,30172,9493,12156,89130,6,Online,6,No
+T0008,24,Female,USA,Kerala,Chennai,Domestic,Business,Winter,Jan,Train,Luxury,4.3,7,9152,48054,1035,17190,75431,6,Online,6,No
+T0009,50,Male,UK,Karnataka,Kochi,Domestic,Pilgrimage,Winter,Dec,Car,Standard,4.6,7,24439,49825,6012,19234,99510,7,Online,5,Yes
+T0010,39,Female,Australia,Karnataka,Panaji,Domestic,Vacation,Summer,Oct,Train,Budget,4.1,7,26769,38068,4646,5026,74509,10,Offline,6,No
+T0011,60,Female,UK,Tamil Nadu,Mysuru,Domestic,Vacation,Monsoon,Apr,Car,Budget,3.9,2,25338,6872,6098,9156,47464,8,Offline,4,Yes
+T0012,48,Female,USA,Rajasthan,Mysuru,International,Vacation,Winter,Oct,Car,Standard,3.8,5,30188,31301,6313,18176,85978,5,Offline,2,Yes
+T0013,53,Female,India,Kerala,Kochi,International,Business,Summer,Nov,Train,Standard,3.2,10,18032,18555,5272,9324,51183,9,Offline,3,Yes
+T0014,26,Male,UK,Tamil Nadu,Chennai,International,Business,Summer,Jun,Train,Luxury,3.1,8,36889,10268,4998,8721,60876,10,Offline,3,Yes
+T0015,37,Male,UK,Rajasthan,Kochi,International,Vacation,Winter,Apr,Bus,Standard,4.9,6,27246,41336,7928,9157,85667,5,Offline,1,No
+T0016,32,Male,UK,Rajasthan,Panaji,Domestic,Pilgrimage,Summer,Oct,Train,Budget,3.5,9,34492,17831,8809,7132,68264,9,Offline,3,No
+T0017,28,Male,Australia,Kerala,Panaji,Domestic,Adventure,Summer,Jan,Flight,Luxury,3.3,6,9707,28736,4425,2366,45234,5,Offline,2,Yes
+T0018,46,Male,USA,Rajasthan,Mysuru,International,Business,Monsoon,Aug,Flight,Standard,4.5,9,6957,42535,1181,11732,62405,7,Online,6,Yes
+T0019,56,Male,Germany,Tamil Nadu,Jaipur,International,Adventure,Winter,Aug,Bus,Luxury,4.8,4,13279,38309,7374,6007,64969,5,Offline,1,No
+T0020,64,Male,Germany,Tamil Nadu,Jaipur,International,Pilgrimage,Monsoon,Jun,Train,Budget,3.9,2,38381,48451,6292,8966,102090,9,Online,6,No
+T0021,27,Male,India,Rajasthan,Mysuru,International,Pilgrimage,Monsoon,Nov,Bus,Standard,3.7,6,16747,17235,6493,4134,44609,5,Offline,2,No
+T0022,44,Female,USA,Tamil Nadu,Panaji,International,Adventure,Winter,Aug,Train,Standard,3.3,2,25532,46157,1724,7455,80868,9,Offline,3,No
+T0023,36,Female,UK,Goa,Jaipur,International,Pilgrimage,Monsoon,Dec,Bus,Luxury,3.4,5,21735,4086,7298,3744,36863,10,Online,3,Yes
+T0024,69,Male,USA,Karnataka,Panaji,Domestic,Vacation,Winter,Feb,Flight,Standard,3.2,5,7788,8657,5838,4471,26754,5,Offline,2,Yes
+T0025,65,Male,Australia,Kerala,Jaipur,International,Adventure,Summer,Nov,Train,Budget,3.7,10,32125,23169,4316,3871,63481,5,Online,4,Yes
+T0026,63,Female,India,Kerala,Mysuru,Domestic,Vacation,Summer,Apr,Flight,Luxury,4.0,8,8138,39782,1080,4886,53886,6,Offline,2,No
+T0027,40,Female,Germany,Kerala,Panaji,Domestic,Business,Summer,Feb,Train,Standard,3.3,7,9068,43092,1721,17023,70904,8,Offline,3,No
+T0028,67,Male,Germany,Karnataka,Panaji,Domestic,Pilgrimage,Summer,Nov,Bus,Standard,4.6,2,29175,25137,3445,12471,70228,8,Online,2,No
+T0029,26,Female,Australia,Kerala,Chennai,International,Pilgrimage,Summer,Apr,Train,Budget,3.5,7,10574,6420,2584,11134,30712,10,Offline,2,No
+T0030,55,Female,Germany,Karnataka,Jaipur,Domestic,Adventure,Monsoon,Mar,Flight,Budget,3.5,7,29819,29099,1821,4663,65402,8,Online,5,No
+T0031,18,Female,UK,Karnataka,Chennai,Domestic,Adventure,Winter,Oct,Bus,Standard,4.4,5,21419,33731,6803,7564,69517,10,Online,1,Yes
+T0032,35,Male,Australia,Kerala,Jaipur,International,Adventure,Summer,Jun,Bus,Standard,3.1,3,30237,22392,7374,6319,66322,8,Online,1,No
+T0033,60,Male,Australia,Rajasthan,Mysuru,Domestic,Vacation,Summer,Sep,Flight,Budget,3.7,5,20420,26018,1400,5688,53526,10,Online,5,No
+T0034,45,Female,USA,Rajasthan,Panaji,Domestic,Business,Monsoon,Apr,Flight,Luxury,4.3,7,15256,30709,1557,9288,56810,6,Offline,2,No
+T0035,33,Male,USA,Tamil Nadu,Kochi,International,Pilgrimage,Monsoon,Nov,Bus,Budget,4.3,2,19453,34000,6379,12655,72487,9,Online,5,No
+T0036,53,Male,UK,Rajasthan,Jaipur,Domestic,Business,Monsoon,Feb,Car,Budget,3.2,7,28683,16900,4878,12765,63226,10,Offline,6,No
+T0037,20,Female,UK,Kerala,Mysuru,International,Adventure,Summer,Nov,Bus,Luxury,3.1,8,16192,29182,7995,18691,72060,9,Online,5,Yes
+T0038,30,Female,USA,Tamil Nadu,Kochi,International,Vacation,Summer,Oct,Bus,Budget,4.9,5,5597,45587,5634,9161,65979,6,Offline,3,Yes
+T0039,23,Male,UK,Goa,Mysuru,International,Adventure,Summer,Apr,Car,Standard,3.6,7,38070,41922,2994,4887,87873,9,Online,2,Yes
+T0040,53,Male,Australia,Rajasthan,Panaji,Domestic,Adventure,Summer,May,Car,Luxury,3.6,2,34260,12555,1967,16575,65357,6,Online,6,Yes
+T0041,51,Female,USA,Tamil Nadu,Kochi,International,Pilgrimage,Summer,Aug,Bus,Budget,4.9,5,37293,35041,3463,13743,89540,7,Online,6,No
+T0042,51,Female,UK,Tamil Nadu,Kochi,International,Business,Summer,Sep,Train,Budget,4.3,9,12901,37992,8368,962,60223,9,Online,5,Yes
+T0043,53,Male,USA,Karnataka,Jaipur,International,Adventure,Winter,Jun,Flight,Budget,3.7,3,13067,34247,9051,3541,59906,10,Online,4,No
+T0044,33,Female,USA,Goa,Panaji,International,Adventure,Winter,Mar,Bus,Luxury,4.4,9,32079,11576,9366,4364,57385,5,Online,3,No
+T0045,70,Female,Australia,Kerala,Panaji,International,Pilgrimage,Winter,May,Car,Standard,4.2,7,24465,13263,1686,2554,41968,9,Offline,6,Yes
+T0046,69,Male,India,Karnataka,Jaipur,International,Adventure,Summer,Mar,Bus,Standard,3.3,5,38436,40649,5845,12341,97271,5,Offline,4,No
+T0047,52,Male,UK,Goa,Mysuru,Domestic,Business,Winter,Nov,Car,Luxury,4.1,6,11862,22719,5254,11430,51265,9,Offline,1,No
+T0048,31,Male,Germany,Karnataka,Kochi,International,Vacation,Monsoon,Jun,Car,Luxury,3.1,2,18905,11489,2515,16796,49705,8,Online,3,No
+T0049,67,Female,Australia,Goa,Jaipur,International,Business,Winter,Mar,Car,Standard,3.7,6,8484,44517,1233,12273,66507,7,Offline,1,No
+T0050,44,Female,USA,Karnataka,Chennai,International,Business,Summer,Oct,Car,Luxury,3.4,6,36533,28901,9384,3823,78641,8,Online,3,Yes
+T0051,18,Female,Germany,Karnataka,Chennai,International,Business,Monsoon,Mar,Bus,Luxury,3.6,8,6702,45392,6866,5742,64702,10,Offline,4,Yes
+T0052,34,Male,India,Karnataka,Mysuru,Domestic,Adventure,Monsoon,Jan,Car,Budget,3.5,9,34146,29983,1070,13753,78952,10,Online,6,Yes
+T0053,38,Male,India,Tamil Nadu,Panaji,International,Pilgrimage,Summer,Jul,Train,Luxury,3.6,9,21773,15334,2638,6877,46622,10,Offline,1,No
+T0054,42,Male,Germany,Goa,Kochi,International,Vacation,Monsoon,Nov,Bus,Budget,5.0,6,34707,19040,1442,18480,73669,7,Online,1,No
+T0055,68,Female,India,Kerala,Kochi,Domestic,Pilgrimage,Summer,Nov,Car,Luxury,3.2,2,29881,3112,7346,8868,49207,7,Online,5,Yes
+T0056,31,Female,Australia,Tamil Nadu,Panaji,Domestic,Business,Monsoon,Sep,Bus,Standard,3.6,3,30971,29777,6519,13110,80377,6,Online,4,No
+T0057,51,Female,USA,Rajasthan,Kochi,International,Vacation,Winter,Dec,Car,Budget,3.6,4,30905,9851,5546,19705,66007,5,Online,2,No
+T0058,22,Female,Germany,Kerala,Mysuru,International,Adventure,Winter,Jul,Train,Standard,4.7,5,37983,26610,9328,2296,76217,6,Offline,5,Yes
+T0059,65,Male,Australia,Rajasthan,Kochi,Domestic,Pilgrimage,Summer,Mar,Car,Budget,4.8,8,35353,33546,9395,14215,92509,9,Offline,6,No
+T0060,64,Female,UK,Rajasthan,Chennai,Domestic,Business,Winter,May,Train,Luxury,4.0,5,11454,13696,4425,3602,33177,5,Online,2,No
+T0061,28,Male,India,Goa,Chennai,International,Pilgrimage,Summer,Jun,Train,Standard,3.4,3,38252,7835,6696,6499,59282,10,Online,2,No
+T0062,45,Female,Germany,Karnataka,Mysuru,Domestic,Adventure,Monsoon,Jul,Bus,Budget,4.6,7,9410,46648,5140,12407,73605,6,Online,2,No
+T0063,44,Female,India,Tamil Nadu,Panaji,International,Vacation,Summer,Sep,Train,Luxury,3.6,10,21864,30985,4427,9423,66699,9,Online,1,No
+T0064,68,Female,USA,Tamil Nadu,Jaipur,Domestic,Vacation,Monsoon,Dec,Car,Standard,3.0,5,20232,31755,7136,1536,60659,5,Online,5,No
+T0065,61,Male,Australia,Goa,Jaipur,International,Business,Summer,Jun,Car,Standard,3.0,4,33467,15681,1399,10247,60794,8,Offline,3,No
+T0066,25,Male,Germany,Karnataka,Chennai,Domestic,Vacation,Winter,Aug,Train,Standard,4.6,2,33144,38112,5830,11797,88883,5,Offline,5,Yes
+T0067,20,Male,India,Tamil Nadu,Panaji,Domestic,Vacation,Monsoon,Oct,Flight,Standard,4.7,6,33815,26504,9936,7279,77534,8,Offline,5,No
+T0068,55,Female,USA,Rajasthan,Chennai,Domestic,Vacation,Winter,Oct,Flight,Standard,4.3,6,21846,38100,3945,5565,69456,10,Online,4,Yes
+T0069,27,Female,India,Goa,Mysuru,Domestic,Pilgrimage,Summer,Jul,Bus,Budget,3.4,4,13320,16441,4377,1616,35754,7,Online,1,No
+T0070,45,Male,India,Tamil Nadu,Jaipur,International,Vacation,Monsoon,Sep,Bus,Budget,3.4,10,32994,40484,8879,18045,100402,9,Offline,2,No
+T0071,19,Female,Australia,Rajasthan,Jaipur,International,Adventure,Monsoon,Dec,Train,Budget,4.7,3,8964,6055,3596,7684,26299,5,Online,1,No
+T0072,51,Male,Australia,Rajasthan,Mysuru,Domestic,Adventure,Monsoon,Mar,Car,Standard,3.4,4,24239,40559,1301,2697,68796,6,Online,5,No
+T0073,43,Male,UK,Kerala,Chennai,International,Adventure,Monsoon,Mar,Bus,Standard,4.8,7,38000,5993,5099,13553,62645,8,Online,1,Yes
+T0074,53,Female,UK,Kerala,Mysuru,Domestic,Vacation,Summer,Jun,Train,Budget,3.2,6,34250,25579,4888,19696,84413,8,Online,6,Yes
+T0075,68,Female,India,Goa,Jaipur,International,Business,Summer,Jan,Flight,Budget,4.2,9,11720,30154,2049,6115,50038,6,Online,4,Yes
+T0076,45,Male,India,Karnataka,Mysuru,Domestic,Pilgrimage,Winter,Dec,Flight,Luxury,4.8,4,22835,5877,9450,3898,42060,8,Online,5,No
+T0077,69,Male,Germany,Karnataka,Mysuru,International,Vacation,Monsoon,Jan,Train,Standard,3.6,4,23215,25688,9688,19977,78568,6,Online,1,No
+T0078,50,Female,India,Goa,Mysuru,Domestic,Vacation,Summer,Aug,Car,Budget,4.6,2,33061,8005,3106,15640,59812,10,Offline,4,Yes
+T0079,66,Female,India,Kerala,Jaipur,Domestic,Pilgrimage,Summer,Aug,Flight,Standard,3.2,5,15196,12587,5023,8620,41426,6,Offline,6,Yes
+T0080,29,Female,India,Kerala,Jaipur,Domestic,Pilgrimage,Winter,Mar,Flight,Standard,4.9,6,16225,8164,1853,17500,43742,7,Offline,2,No
+T0081,27,Female,Germany,Rajasthan,Panaji,Domestic,Vacation,Winter,Dec,Flight,Standard,4.3,5,32539,26442,5562,5366,69909,8,Offline,4,Yes
+T0082,27,Female,Germany,Tamil Nadu,Chennai,Domestic,Adventure,Winter,Aug,Flight,Standard,3.5,2,11294,43227,9175,7438,71134,10,Offline,1,No
+T0083,57,Male,USA,Goa,Jaipur,Domestic,Vacation,Monsoon,Aug,Flight,Luxury,3.2,6,36354,47816,4573,4865,93608,9,Online,2,No
+T0084,18,Female,Germany,Tamil Nadu,Chennai,Domestic,Business,Winter,Sep,Flight,Budget,3.2,10,29853,32769,1029,17958,81609,7,Offline,2,Yes
+T0085,63,Male,Australia,Goa,Kochi,Domestic,Adventure,Monsoon,Dec,Car,Budget,4.4,6,5410,5796,1306,15736,28248,8,Offline,3,Yes
+T0086,43,Male,Australia,Tamil Nadu,Panaji,Domestic,Vacation,Monsoon,Feb,Flight,Budget,4.3,7,16109,7829,2156,13938,40032,8,Offline,6,No
+T0087,35,Male,Germany,Kerala,Mysuru,Domestic,Vacation,Summer,Jan,Flight,Standard,3.4,3,34363,22788,1165,10359,68675,8,Online,3,Yes
+T0088,50,Female,USA,Rajasthan,Panaji,Domestic,Adventure,Winter,Feb,Bus,Budget,4.6,6,7521,6563,5696,9167,28947,9,Offline,3,No
+T0089,41,Female,India,Tamil Nadu,Jaipur,Domestic,Vacation,Winter,Feb,Train,Standard,4.4,3,29441,47850,1304,848,79443,6,Online,3,Yes
+T0090,55,Female,UK,Rajasthan,Panaji,Domestic,Business,Winter,Oct,Bus,Standard,4.8,3,7524,9786,9394,2771,29475,9,Online,4,No
+T0091,42,Male,Germany,Karnataka,Kochi,Domestic,Pilgrimage,Monsoon,Jul,Car,Luxury,4.9,2,6489,41270,9834,1058,58651,6,Offline,4,No
+T0092,33,Female,UK,Tamil Nadu,Chennai,International,Adventure,Monsoon,Jan,Car,Luxury,3.6,3,32671,17397,5810,1313,57191,10,Offline,6,No
+T0093,54,Male,Germany,Kerala,Chennai,International,Pilgrimage,Winter,May,Car,Budget,3.2,6,17558,23267,1084,11003,52912,7,Online,5,No
+T0094,57,Female,Germany,Goa,Mysuru,Domestic,Vacation,Summer,Nov,Train,Luxury,4.6,3,10571,12882,4645,19184,47282,7,Offline,5,No
+T0095,46,Male,UK,Tamil Nadu,Mysuru,Domestic,Vacation,Winter,Oct,Flight,Standard,3.8,8,23782,19779,8221,975,52757,5,Online,4,No
+T0096,54,Male,UK,Rajasthan,Panaji,International,Adventure,Summer,Nov,Car,Budget,4.8,4,12473,37525,8750,11676,70424,9,Offline,5,No
+T0097,28,Female,UK,Tamil Nadu,Kochi,International,Vacation,Summer,Aug,Car,Budget,3.3,6,8714,30478,1933,13891,55016,5,Online,1,No
+T0098,19,Male,Australia,Rajasthan,Chennai,International,Business,Summer,Oct,Train,Luxury,4.8,7,36482,24389,3171,14943,78985,6,Offline,2,No
+T0099,23,Male,UK,Tamil Nadu,Kochi,International,Pilgrimage,Summer,Sep,Flight,Luxury,4.1,9,17955,3378,6302,5678,33313,5,Online,2,No
+T0100,50,Male,UK,Karnataka,Kochi,Domestic,Business,Monsoon,Apr,Car,Luxury,4.2,3,10551,28889,5122,15569,60131,7,Offline,2,Yes
+T0101,22,Male,Germany,Rajasthan,Chennai,International,Pilgrimage,Summer,Sep,Bus,Standard,3.5,4,31884,14602,9011,7642,63139,7,Offline,5,No
+T0102,40,Male,UK,Rajasthan,Kochi,Domestic,Vacation,Winter,Apr,Flight,Luxury,3.4,9,15285,22777,3739,10703,52504,9,Offline,4,Yes
+T0103,57,Female,UK,Rajasthan,Jaipur,International,Vacation,Winter,Apr,Car,Luxury,4.4,5,26574,49979,8387,2473,87413,9,Online,6,Yes
+T0104,19,Female,Australia,Kerala,Mysuru,International,Pilgrimage,Summer,Oct,Train,Luxury,4.4,7,32934,24583,3240,14401,75158,9,Offline,2,Yes
+T0105,54,Male,UK,Rajasthan,Chennai,Domestic,Pilgrimage,Summer,Feb,Bus,Budget,4.5,4,7558,28742,7020,8314,51634,9,Offline,5,No
+T0106,70,Female,India,Goa,Panaji,Domestic,Business,Monsoon,Apr,Flight,Budget,3.7,2,22623,6560,6296,14422,49901,6,Online,3,Yes
+T0107,37,Female,USA,Tamil Nadu,Kochi,International,Business,Winter,Feb,Bus,Standard,3.3,6,37124,19566,3487,16732,76909,6,Online,1,Yes
+T0108,42,Female,USA,Rajasthan,Jaipur,Domestic,Vacation,Summer,Oct,Car,Standard,4.3,3,34136,6914,5146,1425,47621,7,Offline,5,Yes
+T0109,28,Female,Germany,Kerala,Chennai,Domestic,Adventure,Winter,Jun,Car,Standard,4.8,6,29145,7183,3680,1616,41624,7,Offline,6,Yes
+T0110,32,Male,Australia,Rajasthan,Chennai,Domestic,Business,Winter,Apr,Bus,Standard,4.1,3,11915,37765,4847,7706,62233,7,Offline,4,No
+T0111,50,Male,India,Goa,Panaji,International,Business,Monsoon,Dec,Car,Luxury,3.3,3,5711,5446,9570,14053,34780,8,Online,1,No
+T0112,69,Female,Australia,Tamil Nadu,Mysuru,International,Pilgrimage,Monsoon,Jun,Flight,Budget,4.4,5,22200,30750,3878,9642,66470,9,Offline,1,Yes
+T0113,39,Female,Australia,Kerala,Jaipur,International,Business,Winter,Apr,Car,Standard,4.6,7,39647,29135,4632,12583,85997,10,Online,5,Yes
+T0114,51,Male,UK,Rajasthan,Jaipur,Domestic,Vacation,Summer,Aug,Car,Budget,3.5,10,22670,44396,4283,12667,84016,7,Offline,1,No
+T0115,37,Female,India,Rajasthan,Kochi,Domestic,Pilgrimage,Summer,Nov,Flight,Budget,4.0,5,16889,7963,5566,4365,34783,7,Offline,3,Yes
+T0116,43,Male,Australia,Tamil Nadu,Chennai,International,Pilgrimage,Winter,Feb,Train,Standard,4.2,10,38124,41970,6546,18076,104716,10,Online,4,Yes
+T0117,28,Female,UK,Karnataka,Jaipur,Domestic,Business,Winter,Dec,Flight,Standard,4.4,9,6386,15117,8743,5058,35304,8,Offline,4,No
+T0118,21,Male,India,Karnataka,Kochi,International,Business,Monsoon,Aug,Car,Standard,4.0,7,14544,28155,1486,14975,59160,10,Online,6,Yes
+T0119,40,Male,UK,Rajasthan,Jaipur,Domestic,Vacation,Winter,Mar,Car,Budget,4.0,9,26669,34501,9472,18571,89213,8,Online,1,Yes
+T0120,23,Male,Australia,Rajasthan,Jaipur,International,Vacation,Summer,Jun,Flight,Budget,4.0,2,9978,17345,9784,5006,42113,10,Online,1,No
+T0121,50,Male,Germany,Goa,Mysuru,Domestic,Business,Monsoon,Feb,Bus,Budget,4.1,5,17615,3260,8341,13155,42371,9,Offline,5,No
+T0122,52,Female,India,Goa,Mysuru,Domestic,Pilgrimage,Summer,Jun,Car,Luxury,3.6,7,21522,49642,7588,11779,90531,5,Online,2,Yes
+T0123,29,Male,India,Rajasthan,Jaipur,International,Vacation,Summer,Jun,Bus,Standard,4.9,7,21014,41104,7051,5877,75046,10,Offline,4,Yes
+T0124,57,Female,Germany,Goa,Kochi,Domestic,Pilgrimage,Summer,Mar,Bus,Standard,4.8,5,21216,22598,6463,5210,55487,10,Online,2,Yes
+T0125,38,Male,India,Tamil Nadu,Mysuru,Domestic,Business,Summer,May,Bus,Standard,3.4,3,7953,6648,4899,8225,27725,10,Offline,3,No
+T0126,26,Female,UK,Rajasthan,Jaipur,Domestic,Business,Summer,Jan,Train,Budget,3.5,2,12513,44137,9453,11719,77822,8,Offline,1,Yes
+T0127,22,Female,USA,Goa,Mysuru,Domestic,Pilgrimage,Monsoon,Jan,Bus,Budget,4.6,5,12267,47246,7949,5499,72961,7,Online,4,No
+T0128,54,Male,Australia,Rajasthan,Chennai,International,Business,Winter,Dec,Train,Budget,3.6,4,27892,17703,2788,1258,49641,8,Online,6,No
+T0129,59,Male,USA,Kerala,Kochi,International,Vacation,Summer,Jul,Bus,Luxury,4.3,3,25313,9896,1841,4117,41167,5,Online,3,No
+T0130,40,Male,UK,Kerala,Mysuru,Domestic,Vacation,Summer,May,Car,Budget,4.0,2,30539,24799,9220,10930,75488,5,Online,1,No
+T0131,64,Female,UK,Goa,Jaipur,Domestic,Adventure,Summer,May,Train,Standard,4.9,9,29931,5696,4333,4988,44948,10,Offline,6,Yes
+T0132,54,Female,Australia,Goa,Panaji,Domestic,Vacation,Summer,Jan,Train,Budget,3.5,2,30110,14877,4206,19181,68374,7,Online,2,Yes
+T0133,56,Male,Germany,Goa,Mysuru,Domestic,Vacation,Monsoon,Jun,Car,Standard,4.8,2,32766,25316,9564,11599,79245,6,Online,5,Yes
+T0134,63,Female,India,Kerala,Kochi,Domestic,Pilgrimage,Summer,Jul,Train,Luxury,5.0,6,6224,5686,9603,2187,23700,5,Offline,4,Yes
+T0135,54,Female,USA,Goa,Jaipur,International,Business,Monsoon,Nov,Car,Budget,4.9,10,27595,20938,6232,3124,57889,7,Offline,4,No
+T0136,54,Male,Germany,Tamil Nadu,Chennai,International,Pilgrimage,Winter,Jan,Car,Budget,4.0,7,18972,15225,2770,5826,42793,6,Online,3,Yes
+T0137,45,Male,Australia,Karnataka,Panaji,International,Adventure,Summer,Jun,Train,Budget,3.7,7,24406,46414,9105,13653,93578,8,Offline,2,No
+T0138,43,Male,India,Goa,Jaipur,Domestic,Vacation,Monsoon,Mar,Train,Budget,3.6,7,12250,24952,4780,7570,49552,8,Offline,5,No
+T0139,66,Female,Australia,Rajasthan,Chennai,International,Adventure,Summer,Dec,Bus,Standard,3.5,2,5517,15448,4702,13558,39225,10,Offline,6,No
+T0140,56,Female,Australia,Kerala,Chennai,International,Business,Winter,Feb,Train,Budget,4.3,3,37570,36298,7668,12024,93560,7,Offline,4,No
+T0141,23,Female,Germany,Rajasthan,Kochi,Domestic,Adventure,Winter,Jan,Bus,Standard,4.1,9,39904,15160,9008,14812,78884,7,Offline,3,Yes
+T0142,66,Male,Germany,Tamil Nadu,Panaji,Domestic,Pilgrimage,Summer,Apr,Bus,Standard,4.9,10,13207,22882,1614,17341,55044,5,Online,6,Yes
+T0143,64,Female,Australia,Karnataka,Panaji,International,Pilgrimage,Winter,Apr,Bus,Standard,4.0,2,29500,17301,1023,8054,55878,7,Online,6,Yes
+T0144,63,Female,India,Karnataka,Jaipur,International,Vacation,Summer,Feb,Bus,Luxury,4.4,7,6146,28752,4361,13012,52271,6,Online,1,Yes
+T0145,59,Male,India,Goa,Panaji,Domestic,Vacation,Summer,Apr,Bus,Budget,4.3,6,15961,32897,4920,13465,67243,7,Offline,2,Yes
+T0146,33,Male,India,Goa,Chennai,Domestic,Adventure,Winter,Oct,Car,Luxury,4.9,7,31672,11316,9333,18783,71104,6,Online,5,No
+T0147,24,Female,Germany,Goa,Mysuru,International,Vacation,Summer,Mar,Train,Standard,4.6,8,15414,38919,1008,8082,63423,6,Online,2,No
+T0148,35,Female,Germany,Kerala,Chennai,Domestic,Vacation,Summer,Jul,Train,Standard,3.7,9,22532,39152,1635,15288,78607,5,Offline,3,Yes
+T0149,43,Male,UK,Rajasthan,Chennai,Domestic,Business,Monsoon,Jul,Train,Luxury,4.9,8,20862,28012,8193,560,57627,7,Offline,1,No
+T0150,56,Male,India,Tamil Nadu,Chennai,International,Adventure,Winter,Apr,Train,Luxury,4.1,5,23235,32686,3454,4221,63596,5,Online,3,Yes
+T0151,35,Female,Australia,Tamil Nadu,Kochi,International,Vacation,Summer,Jun,Flight,Luxury,3.6,9,34653,29420,9568,14557,88198,8,Offline,2,No
+T0152,20,Female,Germany,Kerala,Jaipur,Domestic,Pilgrimage,Monsoon,Sep,Car,Budget,4.8,3,10256,41672,9641,12081,73650,7,Offline,6,Yes
+T0153,18,Female,India,Tamil Nadu,Mysuru,International,Business,Summer,Mar,Bus,Standard,4.5,9,37862,27394,1519,15478,82253,9,Offline,1,Yes
+T0154,24,Female,Australia,Karnataka,Jaipur,International,Business,Winter,Aug,Flight,Luxury,3.6,4,24637,32606,8970,10179,76392,10,Online,1,No
+T0155,21,Male,USA,Tamil Nadu,Kochi,Domestic,Pilgrimage,Monsoon,Dec,Car,Budget,3.4,3,35981,40833,6741,2556,86111,7,Offline,5,No
+T0156,20,Male,USA,Tamil Nadu,Kochi,International,Pilgrimage,Monsoon,Nov,Flight,Standard,5.0,10,36518,29545,3603,3666,73332,9,Online,2,No
+T0157,63,Female,Germany,Goa,Panaji,International,Vacation,Monsoon,Dec,Train,Luxury,3.9,10,9348,9553,6687,12160,37748,7,Offline,2,No
+T0158,49,Male,Germany,Kerala,Mysuru,International,Pilgrimage,Winter,Apr,Flight,Luxury,4.0,2,36620,8213,3639,3690,52162,9,Offline,2,Yes
+T0159,42,Female,Australia,Goa,Mysuru,Domestic,Pilgrimage,Winter,May,Train,Luxury,3.7,10,15184,28064,7893,17801,68942,10,Online,1,Yes
+T0160,56,Male,Germany,Tamil Nadu,Kochi,Domestic,Vacation,Summer,Oct,Car,Budget,3.4,2,27276,44278,7381,17343,96278,7,Offline,3,No
+T0161,65,Male,USA,Tamil Nadu,Panaji,Domestic,Adventure,Monsoon,Sep,Flight,Luxury,4.2,7,7323,8979,5870,16430,38602,10,Online,6,Yes
+T0162,24,Female,USA,Karnataka,Jaipur,Domestic,Adventure,Summer,Aug,Train,Luxury,4.1,9,31268,6888,5225,5932,49313,9,Offline,3,No
+T0163,22,Male,UK,Rajasthan,Kochi,International,Business,Monsoon,Nov,Flight,Standard,3.1,6,13721,35997,3584,1086,54388,7,Online,2,Yes
+T0164,64,Male,USA,Tamil Nadu,Kochi,Domestic,Pilgrimage,Monsoon,Feb,Bus,Luxury,4.6,8,25977,9953,9507,19825,65262,5,Online,6,No
+T0165,55,Female,Australia,Tamil Nadu,Panaji,International,Business,Winter,Jun,Flight,Luxury,4.3,10,13148,35057,7694,12615,68514,10,Online,1,Yes
+T0166,47,Male,Australia,Tamil Nadu,Jaipur,International,Adventure,Monsoon,May,Train,Budget,3.4,7,12150,22017,5399,15406,54972,7,Offline,1,Yes
+T0167,67,Male,UK,Kerala,Chennai,International,Business,Summer,Jan,Bus,Luxury,3.3,6,9696,9331,2056,17955,39038,5,Online,2,No
+T0168,61,Male,India,Goa,Mysuru,Domestic,Business,Winter,Jan,Bus,Standard,3.9,2,22151,42949,4204,6426,75730,9,Online,5,Yes
+T0169,32,Female,India,Kerala,Mysuru,Domestic,Vacation,Summer,Feb,Flight,Budget,3.8,9,17178,41844,6046,8517,73585,8,Offline,5,Yes
+T0170,37,Female,Australia,Goa,Mysuru,International,Business,Monsoon,Feb,Car,Budget,3.9,8,14906,40174,8896,17744,81720,9,Online,4,Yes
+T0171,18,Male,USA,Karnataka,Kochi,Domestic,Adventure,Monsoon,Jan,Train,Luxury,4.0,10,29859,6523,6438,12117,54937,8,Online,5,Yes
+T0172,52,Female,UK,Tamil Nadu,Mysuru,Domestic,Business,Monsoon,Mar,Bus,Budget,3.7,9,13420,5861,2998,18470,40749,8,Offline,5,Yes
+T0173,66,Female,Germany,Goa,Chennai,Domestic,Vacation,Monsoon,Aug,Flight,Budget,3.9,5,31701,46254,8094,5822,91871,6,Offline,5,No
+T0174,26,Female,Germany,Tamil Nadu,Panaji,International,Business,Monsoon,Jan,Car,Budget,3.9,3,39271,19907,4325,14406,77909,7,Online,6,No
+T0175,54,Female,Australia,Kerala,Mysuru,International,Business,Winter,Jun,Train,Luxury,3.1,4,10767,30844,1902,14524,58037,10,Online,5,No
+T0176,50,Male,USA,Kerala,Kochi,International,Vacation,Summer,Jun,Train,Luxury,4.4,4,10934,16194,2584,6630,36342,9,Online,3,No
+T0177,29,Female,India,Tamil Nadu,Panaji,Domestic,Business,Monsoon,Aug,Flight,Luxury,3.6,2,27260,24437,9138,4337,65172,8,Online,4,Yes
+T0178,24,Male,USA,Rajasthan,Mysuru,Domestic,Vacation,Monsoon,May,Flight,Budget,4.6,9,24141,47592,4526,3117,79376,7,Online,2,Yes
+T0179,69,Female,Australia,Goa,Jaipur,International,Pilgrimage,Winter,Sep,Train,Luxury,4.7,10,29841,25267,4498,612,60218,5,Offline,1,Yes
+T0180,45,Female,Australia,Goa,Jaipur,Domestic,Vacation,Summer,Apr,Bus,Standard,4.5,10,13551,48483,2986,13804,78824,10,Offline,2,Yes
+T0181,37,Female,Australia,Karnataka,Kochi,International,Adventure,Monsoon,Jul,Flight,Budget,4.9,5,37227,19939,9914,8802,75882,6,Offline,3,No
+T0182,20,Male,UK,Goa,Mysuru,Domestic,Pilgrimage,Winter,May,Train,Luxury,4.8,9,28205,14798,5996,9991,58990,9,Online,6,No
+T0183,67,Female,India,Kerala,Chennai,International,Pilgrimage,Monsoon,Feb,Train,Standard,4.8,7,33891,29841,4298,10746,78776,6,Online,3,No
+T0184,42,Female,UK,Rajasthan,Chennai,International,Adventure,Summer,Jul,Car,Standard,3.7,6,31508,33840,5835,7655,78838,10,Online,2,Yes
+T0185,54,Male,USA,Tamil Nadu,Jaipur,International,Business,Winter,Aug,Train,Luxury,4.5,6,9926,46330,2429,3381,62066,10,Offline,4,Yes
+T0186,22,Male,USA,Rajasthan,Mysuru,International,Adventure,Monsoon,Sep,Bus,Budget,4.9,7,18635,20566,3396,8744,51341,9,Offline,2,No
+T0187,45,Male,UK,Kerala,Kochi,Domestic,Pilgrimage,Winter,Jan,Flight,Budget,4.0,9,29858,6507,8488,2311,47164,5,Online,6,Yes
+T0188,28,Male,Australia,Kerala,Mysuru,Domestic,Pilgrimage,Monsoon,Jul,Bus,Budget,4.0,5,23695,9797,2307,14936,50735,9,Online,5,No
+T0189,70,Male,UK,Karnataka,Chennai,Domestic,Pilgrimage,Monsoon,Sep,Train,Luxury,3.9,5,27820,48554,7861,8158,92393,8,Offline,1,Yes
+T0190,34,Female,India,Karnataka,Mysuru,International,Vacation,Winter,Mar,Car,Standard,4.9,3,37743,43448,8273,13575,103039,5,Online,1,Yes
+T0191,67,Male,Germany,Rajasthan,Panaji,International,Pilgrimage,Winter,Feb,Car,Luxury,4.6,5,27222,38067,4711,3679,73679,6,Online,1,No
+T0192,25,Female,India,Rajasthan,Panaji,International,Vacation,Summer,Jan,Flight,Luxury,3.1,8,12328,17207,5257,12217,47009,7,Online,6,No
+T0193,64,Female,USA,Tamil Nadu,Mysuru,International,Vacation,Winter,Mar,Train,Luxury,3.3,8,14029,13178,4475,1033,32715,6,Offline,1,Yes
+T0194,46,Female,USA,Goa,Kochi,International,Business,Winter,Oct,Bus,Budget,4.1,2,35162,26999,5599,6140,73900,9,Offline,3,No
+T0195,37,Female,UK,Kerala,Jaipur,International,Business,Winter,Oct,Bus,Luxury,3.6,3,34973,9594,3612,15756,63935,5,Online,2,No
+T0196,42,Male,India,Karnataka,Panaji,International,Pilgrimage,Summer,Jan,Car,Budget,3.2,8,17891,29532,1894,6694,56011,9,Offline,6,No
+T0197,56,Male,India,Rajasthan,Panaji,International,Vacation,Summer,Jul,Train,Luxury,4.3,2,21982,41914,4494,6285,74675,10,Online,5,Yes
+T0198,64,Female,Germany,Goa,Mysuru,International,Adventure,Winter,Mar,Train,Luxury,3.5,3,24005,46450,1471,4588,76514,6,Offline,6,No
+T0199,60,Female,Australia,Rajasthan,Mysuru,International,Pilgrimage,Winter,Nov,Train,Luxury,4.3,4,14617,41578,7963,14274,78432,5,Online,1,No
+T0200,29,Male,UK,Tamil Nadu,Jaipur,Domestic,Business,Winter,Apr,Bus,Budget,4.5,10,28361,37725,5119,1331,72536,10,Online,1,Yes
+T0201,22,Female,India,Rajasthan,Kochi,International,Business,Summer,Jun,Train,Standard,3.3,4,23605,3438,9031,14218,50292,10,Online,6,No
+T0202,41,Male,UK,Tamil Nadu,Mysuru,International,Adventure,Monsoon,Jul,Car,Standard,3.9,10,37267,37846,4233,7701,87047,5,Offline,3,No
+T0203,55,Male,UK,Tamil Nadu,Mysuru,International,Pilgrimage,Summer,Aug,Train,Luxury,3.7,3,30849,18925,9380,537,59691,8,Offline,3,No
+T0204,40,Male,Australia,Goa,Mysuru,International,Pilgrimage,Summer,May,Car,Budget,3.7,4,9468,23309,2765,15374,50916,9,Online,6,No
+T0205,31,Female,USA,Tamil Nadu,Jaipur,International,Business,Monsoon,Nov,Train,Standard,4.0,2,19914,11414,3762,11338,46428,9,Offline,5,No
+T0206,19,Female,India,Tamil Nadu,Kochi,International,Pilgrimage,Summer,Sep,Flight,Luxury,4.7,5,10867,41696,8462,15842,76867,8,Offline,2,No
+T0207,30,Male,Australia,Karnataka,Kochi,International,Adventure,Monsoon,Jul,Bus,Budget,4.3,10,31156,22625,4626,6594,65001,6,Online,5,No
+T0208,59,Male,India,Tamil Nadu,Panaji,International,Pilgrimage,Summer,Aug,Train,Luxury,4.6,3,35433,25777,6377,14445,82032,7,Offline,3,No
+T0209,43,Male,India,Karnataka,Panaji,International,Adventure,Winter,Aug,Train,Luxury,4.7,8,22339,14334,5066,12966,54705,8,Online,1,Yes
+T0210,53,Female,UK,Tamil Nadu,Kochi,International,Adventure,Summer,Dec,Train,Standard,3.1,8,15072,13857,1022,12390,42341,5,Online,2,Yes
+T0211,65,Female,India,Karnataka,Mysuru,Domestic,Pilgrimage,Monsoon,Oct,Train,Standard,3.4,7,19412,44651,9058,3124,76245,7,Offline,1,Yes
+T0212,53,Female,USA,Tamil Nadu,Kochi,International,Vacation,Monsoon,May,Car,Budget,4.2,2,18144,24401,2059,17720,62324,7,Online,5,Yes
+T0213,59,Female,USA,Rajasthan,Kochi,Domestic,Pilgrimage,Monsoon,Jan,Car,Standard,4.9,2,10490,15328,5025,19565,50408,8,Online,3,No
+T0214,31,Male,Australia,Kerala,Kochi,International,Business,Winter,Jun,Train,Luxury,4.6,6,37480,13259,4566,2652,57957,6,Offline,2,No
+T0215,57,Female,Australia,Rajasthan,Mysuru,International,Vacation,Winter,Apr,Train,Budget,3.6,2,21694,14154,1628,11376,48852,5,Online,4,No
+T0216,19,Male,India,Tamil Nadu,Jaipur,International,Adventure,Winter,Feb,Car,Luxury,4.3,3,27695,12453,9018,14631,63797,5,Online,4,No
+T0217,67,Male,Australia,Rajasthan,Kochi,International,Adventure,Summer,Nov,Bus,Luxury,4.8,4,29408,3293,8570,2820,44091,6,Offline,6,No
+T0218,22,Female,UK,Kerala,Mysuru,Domestic,Business,Summer,Apr,Flight,Luxury,3.4,6,30051,46337,4674,6965,88027,9,Offline,5,Yes
+T0219,32,Female,India,Goa,Panaji,International,Adventure,Winter,Mar,Bus,Luxury,4.7,9,13566,25207,3928,16687,59388,7,Offline,5,No
+T0220,39,Female,Germany,Tamil Nadu,Kochi,Domestic,Adventure,Monsoon,Apr,Flight,Luxury,5.0,3,23483,47169,1647,3480,75779,8,Offline,5,No
+T0221,37,Male,Germany,Goa,Kochi,Domestic,Adventure,Summer,Jan,Flight,Luxury,4.8,7,26674,23009,8978,5759,64420,8,Offline,3,No
+T0222,28,Male,Germany,Goa,Jaipur,Domestic,Adventure,Winter,Oct,Flight,Luxury,3.7,2,31031,30148,7351,4276,72806,9,Offline,5,Yes
+T0223,60,Female,Australia,Goa,Panaji,Domestic,Business,Monsoon,Mar,Bus,Budget,4.5,7,15986,38493,5918,18603,79000,6,Offline,4,No
+T0224,32,Male,USA,Rajasthan,Kochi,Domestic,Pilgrimage,Summer,Jun,Bus,Luxury,4.6,4,23002,12032,1983,16279,53296,8,Online,1,Yes
+T0225,47,Female,India,Goa,Jaipur,Domestic,Business,Winter,Dec,Car,Luxury,3.9,6,22973,16448,3731,720,43872,10,Online,1,No
+T0226,50,Female,Germany,Tamil Nadu,Mysuru,International,Business,Summer,Dec,Flight,Budget,4.1,7,33042,37251,7407,2421,80121,10,Online,6,Yes
+T0227,27,Male,UK,Karnataka,Jaipur,Domestic,Pilgrimage,Summer,Oct,Flight,Budget,4.5,6,20324,28805,5896,4271,59296,6,Online,4,No
+T0228,28,Male,Germany,Goa,Panaji,International,Business,Winter,Apr,Car,Budget,3.4,9,35300,36194,3483,5661,80638,9,Online,2,No
+T0229,41,Male,Australia,Goa,Jaipur,Domestic,Pilgrimage,Summer,Jun,Train,Luxury,4.0,2,29683,15317,6229,8478,59707,9,Offline,2,Yes
+T0230,24,Male,Australia,Tamil Nadu,Jaipur,Domestic,Business,Winter,Oct,Flight,Luxury,3.0,7,33990,47711,7256,15354,104311,7,Online,2,No
+T0231,64,Male,India,Tamil Nadu,Mysuru,International,Vacation,Summer,May,Car,Luxury,3.5,4,35130,14949,4527,3629,58235,5,Offline,3,Yes
+T0232,66,Male,India,Rajasthan,Kochi,Domestic,Business,Winter,May,Car,Luxury,4.1,2,37974,7330,6420,8294,60018,10,Offline,6,Yes
+T0233,36,Male,USA,Kerala,Kochi,International,Pilgrimage,Monsoon,Jan,Flight,Luxury,4.6,6,21335,47287,3884,6838,79344,5,Offline,4,No
+T0234,47,Female,India,Tamil Nadu,Kochi,Domestic,Vacation,Winter,Apr,Car,Standard,3.2,10,16174,12065,8795,10674,47708,5,Online,5,Yes
+T0235,45,Female,Germany,Kerala,Jaipur,Domestic,Business,Summer,May,Train,Luxury,3.3,4,22573,38250,8383,19846,89052,6,Offline,1,No
+T0236,44,Female,India,Goa,Chennai,Domestic,Vacation,Winter,Jul,Car,Budget,4.6,10,29911,25876,9333,17330,82450,6,Offline,3,No
+T0237,30,Female,USA,Karnataka,Panaji,International,Adventure,Summer,Nov,Car,Standard,4.1,2,20695,8686,2730,9137,41248,9,Offline,3,No
+T0238,62,Female,UK,Rajasthan,Panaji,Domestic,Business,Summer,Dec,Flight,Luxury,3.8,4,18513,17107,8262,7498,51380,9,Offline,4,Yes
+T0239,37,Female,Australia,Tamil Nadu,Chennai,International,Pilgrimage,Monsoon,Jan,Car,Luxury,4.6,4,37246,26609,9037,17111,90003,7,Offline,2,No
+T0240,27,Female,India,Karnataka,Chennai,International,Vacation,Winter,Aug,Bus,Luxury,3.5,10,25496,39913,2330,6190,73929,8,Offline,5,No
+T0241,51,Female,USA,Tamil Nadu,Chennai,Domestic,Business,Summer,Sep,Bus,Luxury,4.9,8,25013,29749,6285,6824,67871,10,Online,6,Yes
+T0242,70,Male,USA,Goa,Panaji,Domestic,Adventure,Monsoon,Dec,Flight,Budget,4.4,3,35683,35225,8014,4569,83491,5,Offline,2,No
+T0243,36,Male,UK,Karnataka,Jaipur,International,Pilgrimage,Summer,Feb,Train,Standard,4.3,9,34747,20268,8804,842,64661,8,Online,5,No
+T0244,35,Male,USA,Karnataka,Chennai,Domestic,Business,Summer,Oct,Bus,Budget,4.1,7,13706,17436,8852,7825,47819,8,Online,5,No
+T0245,27,Male,UK,Tamil Nadu,Panaji,Domestic,Business,Winter,Oct,Car,Luxury,3.4,5,13860,42815,5623,18366,80664,5,Online,6,Yes
+T0246,41,Female,India,Tamil Nadu,Panaji,Domestic,Vacation,Summer,Nov,Bus,Standard,4.0,2,9126,37536,8139,5108,59909,8,Online,3,No
+T0247,21,Female,USA,Goa,Jaipur,International,Pilgrimage,Monsoon,Dec,Train,Standard,4.6,2,29981,6810,4989,9026,50806,9,Online,2,No
+T0248,41,Female,India,Tamil Nadu,Panaji,International,Pilgrimage,Monsoon,Jun,Train,Luxury,3.9,6,8275,41502,4865,16533,71175,10,Offline,6,Yes
+T0249,67,Female,Germany,Kerala,Mysuru,Domestic,Vacation,Winter,Aug,Car,Luxury,4.1,5,24553,17126,9574,6398,57651,10,Online,3,No
+T0250,52,Female,UK,Rajasthan,Panaji,International,Pilgrimage,Monsoon,Jun,Flight,Luxury,3.6,3,12057,7306,7456,15487,42306,5,Online,1,Yes
+T0251,48,Male,Germany,Goa,Chennai,Domestic,Pilgrimage,Summer,Jul,Car,Standard,3.6,8,35489,20772,1191,18464,75916,8,Online,3,No
+T0252,32,Female,Australia,Rajasthan,Mysuru,International,Adventure,Winter,Apr,Bus,Standard,4.9,10,13340,41624,1011,7389,63364,9,Online,1,Yes
+T0253,29,Male,India,Kerala,Mysuru,International,Vacation,Winter,Oct,Car,Luxury,3.7,2,13068,32784,9401,2357,57610,7,Online,5,Yes
+T0254,25,Female,Germany,Tamil Nadu,Kochi,Domestic,Pilgrimage,Winter,Aug,Train,Luxury,4.2,2,5819,17572,7691,11435,42517,10,Offline,3,No
+T0255,55,Male,Germany,Karnataka,Jaipur,International,Adventure,Winter,Apr,Flight,Standard,4.0,9,38217,44861,1653,6104,90835,8,Online,4,Yes
+T0256,37,Male,Germany,Kerala,Panaji,International,Vacation,Summer,Nov,Car,Standard,3.8,5,13959,22121,6808,14014,56902,7,Online,3,Yes
+T0257,23,Female,Australia,Tamil Nadu,Kochi,International,Pilgrimage,Winter,Jun,Flight,Budget,4.9,5,21890,13658,5436,5495,46479,8,Online,5,No
+T0258,29,Male,USA,Karnataka,Jaipur,Domestic,Business,Winter,May,Train,Budget,4.7,5,35517,21141,4794,7802,69254,9,Offline,5,No
+T0259,24,Female,UK,Karnataka,Chennai,Domestic,Vacation,Winter,Jun,Train,Luxury,3.1,8,13088,15031,9959,503,38581,7,Online,5,No
+T0260,25,Female,UK,Karnataka,Chennai,International,Pilgrimage,Winter,Sep,Bus,Luxury,3.3,7,8188,42227,5852,15949,72216,7,Offline,3,Yes
+T0261,63,Male,Germany,Karnataka,Chennai,Domestic,Vacation,Summer,Aug,Flight,Budget,3.3,7,36406,14710,6325,19625,77066,10,Online,5,Yes
+T0262,44,Male,India,Kerala,Mysuru,International,Pilgrimage,Winter,Jul,Bus,Luxury,3.6,6,16071,45472,4591,6745,72879,10,Offline,1,No
+T0263,37,Male,Australia,Kerala,Chennai,Domestic,Adventure,Monsoon,Nov,Bus,Budget,5.0,9,18652,48117,6766,1878,75413,10,Online,5,Yes
+T0264,51,Male,USA,Karnataka,Panaji,International,Business,Monsoon,Oct,Car,Luxury,4.3,6,34571,38067,2802,13909,89349,8,Offline,2,Yes
+T0265,60,Male,Germany,Rajasthan,Chennai,Domestic,Business,Summer,Feb,Car,Standard,3.9,5,29774,46058,2494,18326,96652,6,Online,1,Yes
+T0266,69,Female,USA,Goa,Chennai,Domestic,Adventure,Summer,Sep,Train,Budget,3.6,6,32582,29440,1890,16541,80453,5,Online,3,Yes
+T0267,36,Male,India,Karnataka,Jaipur,Domestic,Vacation,Summer,Mar,Train,Standard,3.7,2,21144,8987,7384,14005,51520,7,Offline,5,Yes
+T0268,31,Male,USA,Goa,Chennai,International,Business,Monsoon,Apr,Bus,Standard,3.7,4,16857,25867,4195,11101,58020,10,Online,1,Yes
+T0269,25,Female,Australia,Karnataka,Panaji,Domestic,Adventure,Summer,Aug,Bus,Luxury,4.7,10,8313,7806,4666,12206,32991,10,Online,1,No
+T0270,20,Male,Australia,Karnataka,Jaipur,International,Business,Summer,Sep,Flight,Luxury,4.2,7,29876,5612,4674,6494,46656,9,Online,3,Yes
+T0271,30,Male,Germany,Tamil Nadu,Jaipur,Domestic,Pilgrimage,Summer,Jul,Bus,Budget,4.9,5,7701,33079,6011,14834,61625,5,Online,5,Yes
+T0272,61,Female,USA,Goa,Chennai,International,Adventure,Winter,Jun,Train,Luxury,4.4,8,18255,45413,1531,14696,79895,6,Online,1,Yes
+T0273,69,Female,USA,Goa,Kochi,International,Adventure,Winter,Jun,Flight,Luxury,3.6,2,12191,39163,9292,6446,67092,8,Online,4,No
+T0274,51,Male,UK,Goa,Jaipur,Domestic,Vacation,Summer,Dec,Train,Standard,3.8,4,32041,19137,8565,6889,66632,7,Online,4,No
+T0275,42,Male,UK,Rajasthan,Chennai,Domestic,Pilgrimage,Summer,Jun,Flight,Luxury,3.6,6,26313,6061,2470,4282,39126,9,Offline,5,No
+T0276,45,Female,USA,Karnataka,Panaji,Domestic,Adventure,Monsoon,Aug,Flight,Standard,3.9,2,29031,5138,4012,9800,47981,7,Online,4,Yes
+T0277,27,Male,Australia,Kerala,Jaipur,International,Vacation,Winter,Apr,Flight,Standard,4.2,7,35808,22012,3162,1320,62302,7,Offline,2,No
+T0278,46,Male,USA,Kerala,Panaji,International,Business,Summer,Aug,Bus,Standard,3.3,6,35412,28012,9194,13320,85938,7,Offline,2,Yes
+T0279,52,Male,India,Goa,Panaji,International,Business,Winter,Jan,Train,Standard,3.8,3,32204,10830,8492,19391,70917,8,Offline,6,No
+T0280,36,Male,Australia,Kerala,Chennai,International,Adventure,Winter,Mar,Flight,Luxury,3.9,7,28150,3396,5487,9821,46854,6,Online,1,Yes
+T0281,38,Female,Germany,Tamil Nadu,Panaji,International,Business,Winter,Jun,Flight,Standard,4.3,3,14870,14030,2833,15320,47053,6,Online,2,Yes
+T0282,65,Male,Australia,Karnataka,Kochi,International,Pilgrimage,Monsoon,Oct,Car,Standard,4.6,7,36479,48341,3738,9716,98274,5,Offline,3,Yes
+T0283,20,Female,Australia,Tamil Nadu,Panaji,Domestic,Business,Winter,Jun,Flight,Budget,4.3,4,18428,17109,2132,1502,39171,7,Offline,3,No
+T0284,18,Male,USA,Rajasthan,Mysuru,International,Pilgrimage,Summer,Sep,Car,Standard,3.8,3,28364,13271,2575,10154,54364,9,Online,2,No
+T0285,47,Male,USA,Goa,Chennai,Domestic,Business,Winter,Mar,Bus,Standard,4.7,8,22024,32263,2041,6900,63228,5,Online,2,No
+T0286,39,Female,USA,Rajasthan,Panaji,International,Pilgrimage,Summer,Dec,Train,Standard,4.9,2,21062,14977,1691,19938,57668,9,Online,4,No
+T0287,30,Male,Germany,Rajasthan,Mysuru,International,Adventure,Summer,Aug,Train,Luxury,4.6,10,14979,36332,4301,19039,74651,10,Offline,4,Yes
+T0288,35,Female,UK,Kerala,Chennai,Domestic,Business,Summer,Jan,Car,Luxury,4.8,7,27572,28161,7719,1213,64665,8,Offline,2,Yes
+T0289,70,Female,Australia,Rajasthan,Jaipur,International,Adventure,Monsoon,Sep,Car,Luxury,3.6,2,23868,39984,9207,12982,86041,10,Online,1,Yes
+T0290,43,Female,USA,Rajasthan,Jaipur,International,Vacation,Summer,Apr,Car,Standard,3.2,6,28553,35896,2866,714,68029,7,Offline,2,Yes
+T0291,33,Female,UK,Rajasthan,Panaji,Domestic,Business,Monsoon,Nov,Car,Standard,3.6,9,35260,26297,5313,11699,78569,6,Offline,4,No
+T0292,65,Male,USA,Tamil Nadu,Jaipur,Domestic,Business,Winter,Aug,Car,Budget,3.2,7,23469,46579,6754,13149,89951,7,Online,2,Yes
+T0293,43,Female,USA,Rajasthan,Jaipur,Domestic,Vacation,Summer,Dec,Train,Luxury,3.3,4,21396,46713,7292,8067,83468,6,Online,2,No
+T0294,52,Male,USA,Tamil Nadu,Chennai,International,Adventure,Monsoon,Dec,Flight,Standard,3.8,2,14645,4484,5889,18496,43514,7,Offline,4,Yes
+T0295,49,Female,Australia,Goa,Mysuru,Domestic,Adventure,Winter,May,Train,Luxury,4.2,8,19747,30387,6591,16786,73511,7,Online,6,No
+T0296,28,Female,Germany,Rajasthan,Chennai,International,Pilgrimage,Monsoon,Aug,Bus,Budget,3.3,9,19158,6578,2589,13066,41391,7,Offline,6,Yes
+T0297,28,Female,USA,Goa,Jaipur,International,Pilgrimage,Winter,Jan,Flight,Luxury,3.8,6,27291,31774,8060,10670,77795,9,Offline,6,Yes
+T0298,67,Male,USA,Karnataka,Panaji,Domestic,Adventure,Monsoon,Jan,Train,Budget,3.0,6,28277,35817,1698,13324,79116,7,Online,5,Yes
+T0299,39,Female,Germany,Rajasthan,Panaji,International,Vacation,Summer,Nov,Flight,Budget,4.5,4,6965,31060,9971,9733,57729,8,Online,1,Yes
+T0300,53,Female,UK,Tamil Nadu,Panaji,Domestic,Vacation,Monsoon,May,Flight,Budget,4.6,4,36194,38697,4427,5395,84713,8,Online,5,No
+T0301,30,Female,Germany,Rajasthan,Kochi,Domestic,Pilgrimage,Summer,Dec,Flight,Budget,4.4,8,36923,21183,1530,9734,69370,5,Offline,5,No
+T0302,34,Female,UK,Karnataka,Chennai,International,Adventure,Winter,Dec,Car,Luxury,4.4,4,30198,42072,3792,19143,95205,9,Offline,1,Yes
+T0303,64,Female,India,Rajasthan,Mysuru,International,Vacation,Winter,Nov,Car,Luxury,4.2,9,16369,17075,3609,2980,40033,6,Offline,2,No
+T0304,43,Male,Australia,Tamil Nadu,Chennai,International,Vacation,Summer,Dec,Car,Budget,4.9,10,36393,35741,7631,8346,88111,7,Offline,5,No
+T0305,58,Female,UK,Kerala,Mysuru,Domestic,Business,Winter,Aug,Train,Budget,4.8,4,27868,26230,8105,13535,75738,5,Online,3,Yes
+T0306,38,Male,USA,Karnataka,Jaipur,International,Adventure,Summer,Jul,Train,Luxury,4.6,10,12384,45943,9653,11196,79176,9,Offline,2,Yes
+T0307,41,Female,Australia,Goa,Jaipur,International,Pilgrimage,Summer,Mar,Car,Standard,4.4,9,39079,38282,9672,10755,97788,6,Online,4,No
+T0308,43,Female,Germany,Karnataka,Mysuru,International,Pilgrimage,Monsoon,Dec,Flight,Budget,3.6,6,21960,7849,1879,5802,37490,9,Online,4,Yes
+T0309,48,Male,India,Rajasthan,Mysuru,International,Business,Monsoon,Oct,Train,Budget,3.8,9,19106,44496,4281,19090,86973,9,Online,1,No
+T0310,65,Female,Australia,Kerala,Panaji,Domestic,Adventure,Monsoon,Aug,Bus,Standard,3.5,4,36099,4322,4390,12017,56828,9,Online,6,Yes
+T0311,48,Male,Australia,Rajasthan,Jaipur,International,Adventure,Summer,Jun,Car,Standard,4.0,7,21982,12180,7368,5378,46908,6,Online,1,No
+T0312,41,Male,Australia,Karnataka,Kochi,International,Pilgrimage,Winter,Jan,Train,Luxury,4.4,8,38614,5454,8246,16637,68951,9,Online,1,No
+T0313,37,Male,Germany,Tamil Nadu,Chennai,International,Pilgrimage,Monsoon,Sep,Car,Luxury,3.1,7,35991,12647,8430,8007,65075,5,Offline,4,Yes
+T0314,50,Female,Australia,Kerala,Panaji,Domestic,Adventure,Monsoon,Jan,Flight,Budget,4.1,5,38358,41731,3987,4047,88123,5,Online,2,No
+T0315,56,Female,USA,Kerala,Jaipur,International,Business,Winter,Sep,Train,Luxury,3.6,9,13405,30961,1325,1064,46755,9,Online,5,Yes
+T0316,45,Male,Germany,Karnataka,Chennai,Domestic,Business,Summer,Aug,Flight,Luxury,3.7,8,22611,30714,4271,15579,73175,10,Offline,2,Yes
+T0317,43,Female,Germany,Goa,Panaji,International,Business,Winter,Sep,Bus,Luxury,4.8,5,6175,12046,1367,19469,39057,8,Online,6,Yes
+T0318,36,Female,Germany,Kerala,Mysuru,Domestic,Vacation,Winter,Oct,Flight,Budget,3.9,4,6644,3185,1096,1325,12250,8,Offline,3,No
+T0319,67,Male,USA,Tamil Nadu,Mysuru,Domestic,Pilgrimage,Winter,May,Flight,Standard,4.6,2,38597,8900,1692,11008,60197,7,Online,2,Yes
+T0320,69,Female,UK,Kerala,Panaji,International,Business,Winter,Jan,Train,Budget,4.8,2,36402,24196,4278,12399,77275,6,Online,2,Yes
+T0321,38,Female,Australia,Tamil Nadu,Chennai,Domestic,Vacation,Winter,Sep,Car,Luxury,3.4,10,32718,33328,2455,10874,79375,10,Online,3,No
+T0322,37,Female,Germany,Tamil Nadu,Panaji,Domestic,Business,Monsoon,Mar,Bus,Budget,4.6,9,36952,40986,5530,1022,84490,7,Offline,5,Yes
+T0323,65,Female,UK,Rajasthan,Panaji,International,Vacation,Monsoon,Oct,Train,Luxury,4.7,8,33250,48277,2930,12292,96749,8,Offline,2,Yes
+T0324,37,Female,Australia,Kerala,Mysuru,International,Vacation,Winter,Dec,Flight,Standard,4.8,7,25546,27321,9196,10204,72267,10,Offline,3,No
+T0325,55,Female,UK,Tamil Nadu,Mysuru,Domestic,Pilgrimage,Monsoon,Feb,Flight,Budget,3.8,9,34339,8315,6799,19222,68675,10,Online,5,Yes
+T0326,28,Male,USA,Goa,Chennai,International,Adventure,Monsoon,Sep,Bus,Luxury,3.9,8,37335,5297,9602,18100,70334,6,Online,1,Yes
+T0327,38,Male,UK,Goa,Kochi,International,Vacation,Monsoon,Aug,Flight,Budget,3.9,2,28815,15113,5449,13440,62817,6,Offline,5,No
+T0328,62,Female,USA,Goa,Chennai,International,Business,Monsoon,May,Train,Luxury,4.2,8,9205,3369,2999,13081,28654,10,Online,2,No
+T0329,36,Male,India,Goa,Jaipur,Domestic,Adventure,Monsoon,May,Train,Standard,3.9,4,31432,4505,4202,16357,56496,8,Online,6,No
+T0330,49,Female,Australia,Rajasthan,Mysuru,International,Vacation,Summer,Mar,Flight,Standard,3.1,7,35634,3139,9124,9609,57506,5,Online,2,Yes
+T0331,66,Female,India,Kerala,Panaji,Domestic,Adventure,Monsoon,Oct,Flight,Standard,3.6,8,32971,48581,4909,10290,96751,8,Online,3,Yes
+T0332,42,Female,UK,Karnataka,Mysuru,International,Vacation,Summer,Mar,Car,Luxury,3.6,6,28500,43373,2720,5131,79724,7,Offline,1,No
+T0333,47,Male,USA,Tamil Nadu,Mysuru,International,Vacation,Summer,Dec,Bus,Budget,4.9,2,7412,22481,6163,19321,55377,8,Online,3,Yes
+T0334,18,Male,UK,Tamil Nadu,Kochi,International,Vacation,Monsoon,May,Car,Luxury,4.3,6,6563,41821,3883,13879,66146,6,Offline,2,No
+T0335,43,Female,India,Karnataka,Chennai,Domestic,Adventure,Summer,Jan,Train,Budget,4.9,3,36947,49957,7634,1947,96485,9,Offline,1,Yes
+T0336,51,Male,USA,Karnataka,Panaji,International,Business,Summer,Apr,Car,Budget,3.8,4,5552,47611,1803,3456,58422,7,Online,2,No
+T0337,33,Male,Australia,Rajasthan,Mysuru,International,Adventure,Summer,Dec,Car,Budget,4.8,3,13033,36086,9110,10191,68420,6,Offline,2,No
+T0338,19,Male,Germany,Karnataka,Jaipur,Domestic,Vacation,Summer,Dec,Train,Luxury,3.9,7,34336,24745,4214,1131,64426,5,Offline,4,Yes
+T0339,33,Female,Germany,Kerala,Panaji,Domestic,Pilgrimage,Summer,Jan,Car,Budget,4.4,3,26007,19261,4948,1636,51852,10,Offline,5,No
+T0340,62,Female,UK,Tamil Nadu,Chennai,International,Business,Winter,Jun,Flight,Standard,4.5,7,12077,4336,2312,13132,31857,9,Offline,6,Yes
+T0341,70,Female,India,Goa,Mysuru,Domestic,Pilgrimage,Winter,Nov,Bus,Luxury,3.2,4,21087,6294,4393,10126,41900,9,Online,2,No
+T0342,24,Male,Australia,Goa,Jaipur,Domestic,Vacation,Winter,Jan,Bus,Budget,3.4,8,12043,6897,8776,17177,44893,10,Offline,5,Yes
+T0343,29,Male,UK,Rajasthan,Jaipur,Domestic,Adventure,Winter,Jan,Flight,Luxury,3.1,5,21766,40302,9902,19818,91788,9,Offline,1,No
+T0344,61,Female,Australia,Tamil Nadu,Chennai,Domestic,Vacation,Monsoon,Oct,Flight,Luxury,3.2,9,16463,21392,1572,6793,46220,9,Offline,5,Yes
+T0345,32,Male,Australia,Goa,Mysuru,Domestic,Business,Summer,Jun,Train,Luxury,3.1,2,7748,22187,8074,7640,45649,9,Offline,2,Yes
+T0346,20,Female,UK,Rajasthan,Kochi,Domestic,Business,Winter,Nov,Bus,Luxury,3.2,5,14276,5326,4489,1721,25812,9,Online,4,No
+T0347,49,Male,UK,Kerala,Mysuru,International,Business,Summer,Apr,Train,Standard,3.7,5,13958,29352,4084,17149,64543,6,Offline,3,No
+T0348,66,Female,Germany,Rajasthan,Kochi,Domestic,Pilgrimage,Summer,May,Bus,Standard,3.6,8,14486,39902,5837,15563,75788,5,Offline,2,No
+T0349,56,Female,Germany,Rajasthan,Kochi,Domestic,Vacation,Winter,Mar,Flight,Budget,3.3,7,34227,7194,9418,18741,69580,6,Online,3,Yes
+T0350,42,Male,UK,Goa,Panaji,International,Adventure,Winter,Sep,Bus,Budget,3.7,10,12482,48772,8759,17668,87681,6,Online,3,Yes
+T0351,33,Male,UK,Karnataka,Jaipur,Domestic,Pilgrimage,Monsoon,Dec,Bus,Luxury,3.2,10,32843,46178,5036,14449,98506,5,Offline,5,No
+T0352,28,Female,UK,Kerala,Mysuru,Domestic,Business,Winter,Mar,Car,Luxury,3.0,8,31866,23506,7956,8964,72292,5,Online,5,Yes
+T0353,65,Male,India,Goa,Panaji,International,Pilgrimage,Winter,Feb,Train,Luxury,4.6,10,5908,36500,5162,16246,63816,6,Offline,4,Yes
+T0354,39,Male,Germany,Kerala,Panaji,Domestic,Vacation,Winter,Jun,Car,Budget,3.3,2,15773,5686,1222,1405,24086,5,Online,6,Yes
+T0355,56,Female,Germany,Goa,Panaji,International,Business,Summer,May,Train,Budget,3.6,3,7097,44085,1495,14997,67674,9,Online,5,No
+T0356,67,Female,Germany,Karnataka,Jaipur,International,Vacation,Winter,Mar,Flight,Luxury,3.4,8,29447,33510,8653,7146,78756,9,Offline,5,No
+T0357,27,Female,Germany,Goa,Mysuru,International,Vacation,Winter,Apr,Car,Luxury,4.2,7,32209,34533,4443,19366,90551,8,Offline,3,No
+T0358,49,Male,India,Kerala,Mysuru,Domestic,Business,Monsoon,Dec,Flight,Standard,3.3,3,25824,29072,2121,8196,65213,5,Offline,5,Yes
+T0359,30,Male,USA,Rajasthan,Chennai,International,Pilgrimage,Summer,Feb,Bus,Luxury,4.5,10,24991,22013,4053,19243,70300,6,Online,4,Yes
+T0360,54,Male,Australia,Tamil Nadu,Kochi,Domestic,Vacation,Winter,Mar,Bus,Luxury,3.8,10,39382,21931,4281,10924,76518,5,Offline,5,No
+T0361,39,Female,India,Goa,Panaji,Domestic,Pilgrimage,Winter,Oct,Train,Standard,4.2,5,31209,22828,8637,14106,76780,8,Offline,5,Yes
+T0362,48,Male,Germany,Karnataka,Jaipur,Domestic,Business,Summer,Apr,Train,Budget,3.3,2,22891,4577,2698,5728,35894,5,Online,6,Yes
+T0363,60,Male,USA,Kerala,Panaji,International,Pilgrimage,Winter,Jun,Bus,Budget,3.1,4,29267,43511,2163,10741,85682,7,Offline,6,No
+T0364,24,Female,Germany,Kerala,Jaipur,Domestic,Pilgrimage,Monsoon,Aug,Car,Luxury,4.0,10,26508,31281,5589,10281,73659,7,Online,5,No
+T0365,54,Male,India,Rajasthan,Panaji,International,Vacation,Winter,Nov,Bus,Luxury,3.0,9,7284,7233,2398,6021,22936,5,Offline,6,No
+T0366,34,Male,UK,Goa,Chennai,Domestic,Business,Monsoon,Jun,Train,Luxury,4.7,2,36536,36803,3551,5088,81978,8,Offline,5,Yes
+T0367,49,Male,India,Kerala,Mysuru,Domestic,Pilgrimage,Monsoon,Jan,Train,Budget,4.8,2,35045,14452,7343,12945,69785,7,Online,4,No
+T0368,64,Male,UK,Goa,Panaji,Domestic,Adventure,Winter,Jul,Flight,Standard,4.6,3,31789,4105,8768,10376,55038,5,Online,1,No
+T0369,62,Male,Australia,Tamil Nadu,Kochi,Domestic,Adventure,Monsoon,Aug,Flight,Luxury,4.4,7,32305,8019,6843,541,47708,5,Online,3,Yes
+T0370,62,Male,Germany,Kerala,Jaipur,International,Adventure,Winter,Jul,Train,Budget,3.5,4,24451,25771,9809,9860,69891,10,Offline,4,Yes
+T0371,26,Male,UK,Kerala,Chennai,International,Pilgrimage,Monsoon,Feb,Bus,Standard,3.7,7,32180,48916,8328,4688,94112,7,Offline,1,Yes
+T0372,38,Male,UK,Goa,Mysuru,International,Pilgrimage,Summer,Feb,Train,Standard,3.7,5,32391,5305,2947,1217,41860,10,Online,5,Yes
+T0373,33,Female,Australia,Goa,Panaji,Domestic,Vacation,Summer,May,Flight,Budget,4.8,5,25374,22118,7639,11714,66845,8,Online,1,No
+T0374,59,Male,UK,Rajasthan,Panaji,Domestic,Business,Winter,Oct,Train,Luxury,4.1,3,14379,43755,7656,3504,69294,8,Offline,4,Yes
+T0375,30,Female,India,Karnataka,Panaji,International,Pilgrimage,Summer,Aug,Bus,Budget,3.7,4,23146,19375,1297,8185,52003,5,Online,6,No
+T0376,55,Female,USA,Goa,Jaipur,International,Business,Summer,Jul,Car,Budget,3.4,10,32505,14089,1720,3689,52003,5,Online,2,Yes
+T0377,32,Female,Australia,Tamil Nadu,Chennai,Domestic,Adventure,Winter,Oct,Car,Luxury,4.1,5,34599,35584,6368,19699,96250,5,Offline,1,Yes
+T0378,65,Female,UK,Goa,Chennai,Domestic,Business,Monsoon,Apr,Bus,Standard,4.5,7,24711,48820,3470,14930,91931,5,Offline,1,Yes
+T0379,33,Male,Germany,Kerala,Chennai,International,Pilgrimage,Monsoon,May,Car,Luxury,4.6,4,16888,7787,3909,15043,43627,7,Offline,3,Yes
+T0380,46,Female,UK,Rajasthan,Jaipur,Domestic,Vacation,Monsoon,Feb,Car,Luxury,3.5,4,15031,5800,3005,16781,40617,6,Online,3,No
+T0381,32,Male,UK,Kerala,Panaji,International,Business,Winter,Apr,Car,Luxury,3.3,8,24034,47783,7881,17273,96971,8,Offline,5,No
+T0382,52,Male,USA,Goa,Panaji,Domestic,Business,Summer,Oct,Train,Luxury,4.2,9,28753,19327,5748,2826,56654,5,Online,4,No
+T0383,37,Male,USA,Karnataka,Jaipur,International,Business,Monsoon,Feb,Car,Budget,4.7,8,7727,35135,3603,12978,59443,8,Online,1,No
+T0384,25,Female,USA,Karnataka,Mysuru,International,Business,Summer,Oct,Flight,Budget,3.6,8,14901,13331,4593,5560,38385,6,Offline,4,Yes
+T0385,62,Female,Germany,Rajasthan,Jaipur,Domestic,Business,Monsoon,Feb,Bus,Standard,3.2,9,16892,29360,9888,644,56784,8,Offline,1,Yes
+T0386,45,Female,India,Kerala,Mysuru,Domestic,Pilgrimage,Monsoon,Nov,Car,Budget,4.4,8,21267,48366,6512,10254,86399,7,Offline,4,Yes
+T0387,66,Male,UK,Karnataka,Chennai,International,Adventure,Summer,Apr,Car,Budget,3.5,4,35854,45214,9006,5316,95390,7,Offline,3,No
+T0388,58,Female,USA,Goa,Kochi,International,Pilgrimage,Winter,Sep,Flight,Luxury,4.5,7,32781,24217,4983,15763,77744,7,Offline,2,No
+T0389,38,Male,USA,Karnataka,Panaji,International,Vacation,Monsoon,Nov,Bus,Budget,3.1,10,30589,29081,1197,16576,77443,9,Online,4,Yes
+T0390,60,Male,Germany,Kerala,Chennai,Domestic,Adventure,Summer,Dec,Bus,Luxury,4.6,5,8689,15727,6106,10611,41133,10,Online,1,No
+T0391,43,Male,UK,Goa,Kochi,International,Adventure,Summer,Mar,Car,Luxury,3.3,6,19371,36008,5773,7002,68154,10,Online,3,Yes
+T0392,35,Female,USA,Kerala,Kochi,International,Pilgrimage,Winter,Jul,Car,Standard,4.4,3,6194,46470,9385,8066,70115,10,Offline,2,No
+T0393,64,Male,USA,Rajasthan,Jaipur,Domestic,Pilgrimage,Summer,Feb,Car,Budget,4.2,4,15586,34311,2663,16835,69395,5,Online,3,No
+T0394,31,Male,USA,Tamil Nadu,Chennai,International,Adventure,Summer,May,Bus,Luxury,3.8,5,38107,32736,6155,4414,81412,7,Offline,3,Yes
+T0395,28,Female,USA,Rajasthan,Chennai,Domestic,Pilgrimage,Monsoon,Jun,Car,Standard,3.9,4,25030,4126,8695,3618,41469,8,Offline,6,No
+T0396,67,Female,Australia,Rajasthan,Kochi,International,Adventure,Summer,Feb,Car,Budget,4.0,8,23631,38727,4319,9084,75761,7,Offline,1,No
+T0397,59,Male,UK,Kerala,Jaipur,Domestic,Adventure,Summer,Oct,Train,Luxury,4.1,7,7820,21800,3928,1530,35078,8,Online,1,No
+T0398,69,Female,India,Rajasthan,Mysuru,Domestic,Pilgrimage,Winter,Apr,Flight,Standard,4.6,6,19538,20215,7651,17379,64783,8,Online,5,Yes
+T0399,56,Male,USA,Karnataka,Kochi,International,Vacation,Monsoon,Aug,Flight,Budget,3.2,6,38911,22685,9551,5304,76451,5,Offline,5,No
+T0400,19,Female,Australia,Tamil Nadu,Kochi,Domestic,Business,Winter,Nov,Train,Luxury,4.8,7,10282,29661,3036,13081,56060,6,Offline,5,No
+T0401,30,Male,Australia,Kerala,Mysuru,Domestic,Business,Winter,Dec,Train,Standard,4.4,9,32567,22143,2982,15400,73092,6,Online,4,No
+T0402,29,Male,Australia,Karnataka,Kochi,Domestic,Adventure,Monsoon,Dec,Bus,Standard,3.1,6,24980,48787,8166,6866,88799,8,Offline,4,No
+T0403,48,Male,USA,Rajasthan,Panaji,Domestic,Vacation,Monsoon,Dec,Flight,Luxury,3.4,4,38726,38705,2720,17794,97945,6,Offline,2,Yes
+T0404,54,Female,India,Kerala,Kochi,Domestic,Vacation,Monsoon,Jun,Flight,Luxury,4.5,2,6574,19876,5787,9282,41519,8,Offline,5,Yes
+T0405,40,Male,UK,Kerala,Kochi,Domestic,Pilgrimage,Winter,Mar,Car,Standard,3.0,3,15976,37444,5181,17470,76071,8,Online,1,No
+T0406,50,Male,USA,Karnataka,Mysuru,Domestic,Business,Monsoon,Feb,Flight,Luxury,3.8,7,24970,23633,9238,12536,70377,5,Online,5,Yes
+T0407,43,Male,UK,Tamil Nadu,Mysuru,International,Pilgrimage,Monsoon,Dec,Train,Luxury,4.2,7,29298,30234,3699,13094,76325,7,Offline,2,Yes
+T0408,43,Female,UK,Kerala,Mysuru,International,Business,Summer,Apr,Train,Budget,3.6,4,9434,31160,8836,14357,63787,8,Online,4,No
+T0409,38,Female,Germany,Karnataka,Kochi,Domestic,Adventure,Winter,Sep,Train,Luxury,3.1,5,17342,44917,9396,4368,76023,6,Online,2,Yes
+T0410,27,Female,India,Tamil Nadu,Jaipur,Domestic,Pilgrimage,Monsoon,Jul,Car,Standard,4.6,8,33507,40643,6877,16788,97815,8,Offline,3,Yes
+T0411,29,Male,USA,Goa,Kochi,International,Vacation,Monsoon,Aug,Flight,Standard,3.5,7,28836,11607,8362,11456,60261,7,Offline,1,No
+T0412,25,Male,USA,Tamil Nadu,Jaipur,International,Adventure,Winter,Nov,Train,Standard,4.0,6,13483,49618,5469,14510,83080,10,Online,4,No
+T0413,43,Male,UK,Tamil Nadu,Chennai,International,Business,Winter,Oct,Flight,Luxury,4.0,4,28468,42874,7430,19879,98651,6,Online,5,Yes
+T0414,55,Male,Australia,Goa,Panaji,Domestic,Business,Winter,Mar,Flight,Standard,4.9,2,37310,35430,2390,10259,85389,5,Online,5,No
+T0415,56,Female,Germany,Karnataka,Panaji,Domestic,Adventure,Monsoon,Feb,Car,Luxury,4.0,3,11419,45835,8168,7790,73212,8,Online,5,No
+T0416,67,Male,Australia,Rajasthan,Panaji,Domestic,Business,Winter,May,Flight,Standard,4.1,9,25042,33953,2371,12215,73581,9,Offline,4,No
+T0417,44,Male,India,Goa,Mysuru,International,Vacation,Monsoon,Feb,Train,Standard,3.6,6,23226,26225,6528,2191,58170,7,Offline,5,No
+T0418,18,Male,Germany,Kerala,Panaji,Domestic,Vacation,Summer,Oct,Bus,Luxury,4.4,3,28745,49623,2648,11085,92101,7,Online,5,Yes
+T0419,34,Male,Australia,Kerala,Kochi,Domestic,Pilgrimage,Winter,Oct,Car,Luxury,4.4,7,14451,11346,9556,3889,39242,8,Offline,3,Yes
+T0420,57,Female,India,Rajasthan,Jaipur,Domestic,Business,Monsoon,Dec,Flight,Standard,3.2,4,5485,5174,5232,6077,21968,10,Online,1,Yes
+T0421,29,Female,USA,Kerala,Jaipur,Domestic,Pilgrimage,Monsoon,Jun,Train,Budget,3.3,10,28289,26157,2014,15479,71939,10,Online,6,No
+T0422,48,Female,Australia,Tamil Nadu,Panaji,Domestic,Adventure,Summer,May,Flight,Standard,4.6,7,15630,23285,5456,15662,60033,10,Online,2,No
+T0423,31,Male,India,Karnataka,Panaji,International,Vacation,Monsoon,Mar,Flight,Budget,4.6,8,7481,26375,3208,12803,49867,10,Online,1,No
+T0424,69,Male,Germany,Goa,Mysuru,International,Vacation,Summer,Aug,Flight,Standard,3.6,3,19451,11220,9453,8710,48834,9,Online,4,Yes
+T0425,70,Male,USA,Tamil Nadu,Kochi,International,Vacation,Winter,Oct,Bus,Luxury,4.2,9,8438,29174,1913,6189,45714,8,Offline,4,Yes
+T0426,66,Female,Australia,Rajasthan,Jaipur,International,Pilgrimage,Winter,Aug,Bus,Luxury,3.4,2,10639,27288,9153,6947,54027,7,Offline,3,No
+T0427,45,Female,USA,Goa,Kochi,Domestic,Pilgrimage,Monsoon,Mar,Bus,Budget,4.5,3,38739,33198,5536,18300,95773,6,Online,2,No
+T0428,26,Female,UK,Goa,Panaji,International,Business,Summer,Apr,Car,Standard,3.2,5,31118,3791,1835,7740,44484,5,Offline,1,No
+T0429,28,Male,USA,Kerala,Chennai,Domestic,Adventure,Summer,Aug,Car,Luxury,4.6,9,30003,23275,6190,635,60103,8,Online,1,Yes
+T0430,63,Male,USA,Karnataka,Chennai,International,Adventure,Winter,Jan,Flight,Luxury,3.9,2,19458,44007,7491,17607,88563,10,Offline,3,Yes
+T0431,38,Female,UK,Kerala,Mysuru,Domestic,Business,Monsoon,Jul,Train,Standard,3.2,6,20315,36026,2580,16280,75201,6,Offline,3,No
+T0432,23,Male,Germany,Rajasthan,Mysuru,Domestic,Pilgrimage,Monsoon,Sep,Bus,Luxury,3.9,9,38732,18528,3870,13210,74340,7,Offline,2,No
+T0433,34,Female,Germany,Karnataka,Chennai,Domestic,Business,Monsoon,May,Flight,Budget,3.6,7,32725,30940,5921,8338,77924,8,Offline,4,No
+T0434,47,Male,Australia,Tamil Nadu,Panaji,International,Pilgrimage,Summer,Nov,Train,Budget,3.5,4,20396,24705,7285,15283,67669,10,Online,5,No
+T0435,23,Female,India,Goa,Chennai,Domestic,Pilgrimage,Monsoon,Apr,Flight,Budget,3.2,6,32087,32408,2033,10952,77480,8,Online,1,Yes
+T0436,20,Female,India,Karnataka,Jaipur,Domestic,Business,Winter,May,Flight,Budget,3.4,10,35825,10493,8031,19483,73832,8,Offline,4,Yes
+T0437,33,Female,UK,Kerala,Jaipur,Domestic,Vacation,Summer,Dec,Car,Standard,4.9,4,35258,42151,4586,15852,97847,8,Online,1,No
+T0438,23,Female,India,Karnataka,Mysuru,Domestic,Business,Monsoon,Jan,Flight,Standard,3.4,7,11167,49080,7556,8309,76112,5,Online,6,No
+T0439,40,Male,India,Karnataka,Mysuru,International,Pilgrimage,Winter,Aug,Train,Standard,3.1,2,36094,5885,2762,19525,64266,6,Offline,6,Yes
+T0440,43,Male,Australia,Kerala,Chennai,International,Pilgrimage,Summer,Aug,Flight,Standard,3.8,5,28540,25934,4839,10330,69643,10,Offline,6,Yes
+T0441,68,Female,Australia,Karnataka,Kochi,International,Business,Monsoon,Sep,Train,Luxury,3.4,8,33074,15790,3072,9589,61525,6,Offline,6,Yes
+T0442,62,Female,USA,Kerala,Panaji,Domestic,Vacation,Monsoon,Jan,Bus,Standard,4.4,4,39492,21782,2695,15081,79050,8,Online,3,No
+T0443,34,Male,USA,Karnataka,Kochi,International,Pilgrimage,Summer,Aug,Car,Budget,3.8,9,13431,25789,9310,7478,56008,10,Online,1,No
+T0444,30,Female,UK,Rajasthan,Chennai,Domestic,Adventure,Monsoon,Dec,Train,Luxury,4.4,5,31651,44635,1066,2093,79445,6,Offline,3,No
+T0445,58,Male,Germany,Goa,Jaipur,International,Pilgrimage,Summer,Sep,Car,Luxury,4.8,4,18998,12138,1031,16755,48922,7,Online,3,Yes
+T0446,47,Female,Germany,Kerala,Panaji,Domestic,Pilgrimage,Winter,Oct,Flight,Luxury,4.4,8,32457,16884,8603,627,58571,9,Online,2,Yes
+T0447,29,Female,Germany,Goa,Mysuru,International,Pilgrimage,Winter,Dec,Train,Standard,4.2,8,19381,31789,8831,15208,75209,10,Online,6,Yes
+T0448,29,Male,Germany,Karnataka,Chennai,Domestic,Adventure,Monsoon,Sep,Car,Standard,3.1,5,10346,39909,3013,3404,56672,6,Offline,3,Yes
+T0449,32,Female,India,Kerala,Panaji,International,Business,Monsoon,Sep,Train,Standard,4.4,3,38512,25948,3441,18189,86090,5,Online,6,Yes
+T0450,40,Male,USA,Goa,Kochi,Domestic,Adventure,Summer,Apr,Train,Standard,4.1,2,38303,45596,9396,15149,108444,7,Online,2,Yes
+T0451,65,Male,USA,Kerala,Chennai,International,Vacation,Winter,Aug,Bus,Luxury,4.9,9,7326,18943,9766,16972,53007,8,Online,6,Yes
+T0452,51,Female,USA,Rajasthan,Jaipur,Domestic,Pilgrimage,Monsoon,Jan,Train,Standard,3.3,4,29558,14528,7596,11847,63529,8,Offline,2,No
+T0453,61,Male,Germany,Rajasthan,Kochi,Domestic,Business,Winter,Aug,Flight,Standard,4.8,2,5920,37367,2175,17253,62715,10,Online,5,No
+T0454,65,Female,Germany,Tamil Nadu,Panaji,Domestic,Pilgrimage,Summer,Oct,Bus,Standard,3.4,10,36655,28252,5234,18438,88579,7,Online,3,Yes
+T0455,68,Female,Australia,Karnataka,Kochi,International,Vacation,Monsoon,Dec,Car,Standard,4.0,9,14640,41953,5709,3243,65545,10,Offline,3,Yes
+T0456,35,Male,Australia,Tamil Nadu,Chennai,International,Business,Summer,Mar,Train,Budget,3.3,10,6073,36764,6988,17000,66825,9,Offline,4,Yes
+T0457,27,Male,UK,Kerala,Chennai,International,Adventure,Winter,May,Bus,Standard,4.8,4,30411,37543,1852,6941,76747,6,Offline,1,No
+T0458,47,Female,Germany,Karnataka,Chennai,International,Vacation,Monsoon,Jul,Bus,Luxury,5.0,2,38979,35760,2847,11733,89319,7,Online,1,Yes
+T0459,19,Female,India,Tamil Nadu,Panaji,Domestic,Adventure,Summer,Apr,Car,Luxury,4.9,5,16596,32029,6687,1731,57043,9,Offline,6,No
+T0460,55,Male,USA,Goa,Chennai,International,Business,Monsoon,Aug,Flight,Luxury,3.3,5,38742,36860,8827,4674,89103,9,Online,3,No
+T0461,61,Male,Germany,Tamil Nadu,Panaji,Domestic,Adventure,Monsoon,Sep,Train,Standard,3.7,9,8785,25666,9297,16618,60366,7,Online,1,Yes
+T0462,50,Female,Germany,Goa,Panaji,Domestic,Business,Winter,Mar,Flight,Luxury,4.2,6,31970,31176,2686,2835,68667,10,Offline,5,No
+T0463,48,Male,India,Goa,Mysuru,International,Vacation,Monsoon,Jan,Bus,Budget,4.8,10,15064,5878,3507,12085,36534,7,Offline,5,Yes
+T0464,58,Female,USA,Rajasthan,Chennai,Domestic,Vacation,Summer,Nov,Bus,Budget,3.0,5,14015,18250,8352,12313,52930,7,Offline,4,Yes
+T0465,63,Female,India,Tamil Nadu,Chennai,Domestic,Vacation,Monsoon,Nov,Bus,Luxury,3.8,2,36277,22419,5953,893,65542,7,Offline,4,Yes
+T0466,64,Female,Australia,Tamil Nadu,Chennai,International,Vacation,Monsoon,Sep,Flight,Budget,3.8,2,36996,26243,7678,9420,80337,6,Online,4,Yes
+T0467,39,Male,India,Kerala,Kochi,International,Business,Monsoon,Sep,Flight,Budget,3.5,9,34534,20019,9067,15666,79286,10,Online,5,Yes
+T0468,55,Female,India,Karnataka,Mysuru,International,Vacation,Monsoon,Dec,Train,Standard,4.1,7,25502,7180,8506,17299,58487,5,Online,6,No
+T0469,19,Male,India,Rajasthan,Mysuru,Domestic,Business,Summer,Jan,Train,Budget,4.3,6,9504,46037,3728,749,60018,10,Online,5,Yes
+T0470,52,Female,Australia,Rajasthan,Panaji,Domestic,Adventure,Monsoon,Nov,Car,Budget,3.8,7,10958,35623,8688,9542,64811,7,Online,4,No
+T0471,51,Male,India,Kerala,Mysuru,International,Adventure,Monsoon,Jan,Car,Standard,4.2,5,31134,12005,6341,12366,61846,9,Offline,5,No
+T0472,36,Male,Germany,Kerala,Chennai,International,Business,Monsoon,Feb,Flight,Standard,4.8,2,29157,32933,8125,6360,76575,5,Offline,2,Yes
+T0473,50,Female,India,Karnataka,Chennai,International,Business,Winter,Nov,Flight,Standard,4.2,8,28186,34419,9387,16311,88303,10,Offline,1,Yes
+T0474,57,Female,UK,Rajasthan,Kochi,International,Vacation,Summer,Mar,Car,Budget,4.3,10,35953,24371,6349,4428,71101,7,Offline,1,No
+T0475,66,Male,UK,Karnataka,Panaji,Domestic,Adventure,Monsoon,Feb,Train,Luxury,3.3,7,17477,31865,6181,16673,72196,5,Online,6,No
+T0476,23,Male,Australia,Rajasthan,Jaipur,International,Business,Summer,Dec,Flight,Budget,4.2,10,22848,12457,3488,5870,44663,5,Online,2,Yes
+T0477,38,Female,Germany,Rajasthan,Kochi,Domestic,Pilgrimage,Monsoon,May,Train,Budget,4.2,3,39975,45698,1942,1254,88869,10,Offline,5,Yes
+T0478,58,Female,India,Kerala,Mysuru,Domestic,Business,Summer,Jan,Train,Luxury,3.4,8,22403,9700,6636,13372,52111,7,Offline,4,Yes
+T0479,22,Male,India,Goa,Jaipur,Domestic,Pilgrimage,Summer,Nov,Car,Luxury,3.8,5,36191,44680,1294,18263,100428,10,Offline,6,Yes
+T0480,18,Male,USA,Karnataka,Jaipur,International,Vacation,Winter,May,Bus,Standard,4.5,3,25685,22921,4615,16475,69696,6,Online,4,No
+T0481,60,Male,UK,Kerala,Jaipur,International,Business,Monsoon,Jun,Flight,Luxury,4.9,5,28049,20138,5022,17433,70642,8,Offline,3,No
+T0482,37,Female,USA,Tamil Nadu,Panaji,Domestic,Business,Summer,Apr,Car,Budget,4.5,9,25730,49954,4194,14579,94457,7,Online,3,No
+T0483,26,Male,India,Karnataka,Panaji,International,Business,Winter,Nov,Train,Luxury,3.5,7,36219,33933,2541,1485,74178,5,Online,5,Yes
+T0484,58,Male,UK,Rajasthan,Chennai,Domestic,Pilgrimage,Monsoon,Sep,Bus,Budget,3.4,3,6768,31277,8576,8781,55402,6,Offline,4,No
+T0485,34,Male,USA,Goa,Jaipur,International,Vacation,Monsoon,Jan,Flight,Luxury,3.9,6,24802,34055,1586,5645,66088,9,Online,4,No
+T0486,23,Male,Germany,Kerala,Panaji,International,Adventure,Winter,Jul,Car,Standard,3.7,9,13693,31954,4599,1538,51784,6,Offline,3,Yes
+T0487,32,Male,Australia,Goa,Jaipur,International,Vacation,Winter,Aug,Car,Luxury,4.9,7,6843,30868,3901,6694,48306,10,Online,3,Yes
+T0488,68,Male,UK,Goa,Panaji,Domestic,Pilgrimage,Summer,Jun,Flight,Luxury,3.2,8,30186,36985,6489,8325,81985,6,Offline,3,No
+T0489,22,Female,USA,Tamil Nadu,Kochi,Domestic,Pilgrimage,Monsoon,Aug,Bus,Standard,4.9,5,37958,7293,4777,1258,51286,5,Offline,6,No
+T0490,24,Male,UK,Tamil Nadu,Jaipur,International,Adventure,Winter,Jul,Flight,Budget,4.7,2,32991,18219,9869,11717,72796,10,Offline,2,No
+T0491,35,Male,Australia,Tamil Nadu,Jaipur,Domestic,Vacation,Monsoon,Sep,Bus,Budget,4.1,9,18824,27916,1069,13964,61773,7,Offline,3,Yes
+T0492,50,Male,UK,Karnataka,Mysuru,International,Pilgrimage,Monsoon,Jun,Car,Budget,4.6,7,38112,19713,3580,4623,66028,9,Online,1,No
+T0493,50,Male,Germany,Karnataka,Jaipur,International,Pilgrimage,Monsoon,Apr,Bus,Budget,4.7,3,13999,25225,1182,12287,52693,5,Online,1,Yes
+T0494,42,Male,UK,Kerala,Mysuru,Domestic,Business,Summer,Jan,Car,Luxury,3.2,9,20242,44645,3230,12409,80526,5,Online,2,Yes
+T0495,20,Female,Australia,Tamil Nadu,Kochi,International,Business,Winter,Jun,Car,Budget,3.6,4,33653,13434,3722,18286,69095,9,Offline,1,Yes
+T0496,51,Male,Germany,Kerala,Panaji,Domestic,Vacation,Summer,Aug,Flight,Budget,3.3,10,18581,31006,7093,1157,57837,10,Online,3,No
+T0497,19,Female,Germany,Goa,Chennai,International,Adventure,Winter,Dec,Flight,Luxury,3.2,3,5208,24458,3917,19583,53166,6,Offline,5,Yes
+T0498,25,Female,USA,Rajasthan,Mysuru,International,Business,Summer,Aug,Car,Standard,3.3,3,14013,48995,7373,18002,88383,10,Offline,5,Yes
+T0499,19,Female,India,Karnataka,Mysuru,International,Business,Monsoon,Aug,Train,Standard,3.2,3,38147,38095,2691,14104,93037,5,Offline,1,No
+T0500,37,Male,UK,Tamil Nadu,Mysuru,Domestic,Vacation,Summer,Feb,Bus,Luxury,3.8,4,5555,11332,8817,707,26411,7,Offline,2,Yes
